@@ -1,0 +1,2 @@
+# CUSTOMER-ANALYSIS-FOR-RETAIL
+Project on CUSTOMER ANALYSIS FOR RETAIL with the help of Python
